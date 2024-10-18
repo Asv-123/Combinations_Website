@@ -1,4 +1,2 @@
 streamlit
 scipy
-comb
-perm
